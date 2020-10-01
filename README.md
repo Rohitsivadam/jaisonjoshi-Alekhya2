@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/all.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    
+<div class="placeholder">
+        <nav class="navbar">
+        <a href="#" class="nav-brand"><img src="./assets/img/logo-alekhya2.png" alt="Alekhya"></a>
+        <div class="toggle-collapse">
+            <div class="toggle-icon"></div>
+        </div>
+        <div class="navbar-nav">
+            <ul class="nav-item">
+                <li class="nav-link"><a href="#" onclick="navlink()">Home</a></li>
+                <li class="nav-link"><a href="#" onclick="navlink()">About Us</a></li>
+                <li class="nav-link"><a href="#" onclick="navlink()">Gallery</a></li>
+                <li class="nav-link"><a href="#footer" onclick="navlink()">Contact</a></li>
+            </ul>
+        </div>
+        
+    </nav>
+    </div>
+
+   <section>
+       <div class="bg-site">
+           <img src="./assets/img/logo.jpg" alt="">
+       </div>
+   </section>
+
+
+   <footer id="footer">
+       <div class="footer">
+           <div class="footer-head">
+               <div class="footer-logo">
+                   <div class="f-logo"><img src="./assets/img/footerlogo.png" alt=""></div>
+                   <h4>GEC Arts Club</h4>
+                   <h5>Govt. Engineering Collage, Palakkad</h5>
+              </div>
+              <div class="footer-nav">
+                  <h3>Site Map</h3>
+                  <ul class="nav-item">
+                      <li class="nav-link"><a href="#">Home</a></li>
+                      <li class="nav-link"><a href="#">About Us</a></li>
+                      <li class="nav-link"><a href="#">Gallery</a></li>
+                      <li class="nav-link"><a href="#">Contact Us</a></li>
+                  </ul>
+              </div>
+              <div class="footer-ser">
+                  <h3>Services</h3>
+                  <ul class="nav-item">
+                      <li class="nav-link"><a href="#">Service 1</a></li>
+                      <li class="nav-link"><a href="#">Service 2</a></li>
+                      <li class="nav-link"><a href="#">Service 3</a></li>
+                      <li class="nav-link"><a href="#">Service 4</a></li>
+                      <li class="nav-link"><a href="#">Service 5</a></li>
+                  </ul>
+              </div>
+              <div class="footer-contact">
+                  <h3>Get in Touch</h3>
+                  <i class="fab fa-whatsapp">&nbsp;&nbsp;+91 9562523642 ,</i>
+                  <i class="fas fa-envelope">&nbsp;&nbsp;jaisonjoshi2001@gmail.com</i>
+                  <div class="social-icons">
+                      <i class="fab fa-facebook"></i>
+                      <i class="fab fa-instagram"></i>
+                      <i class="fab fa-youtube"></i>
+                      <i class="fab fa-twitter"></i>
+                  </div>
+              </div>
+
+           </div>
+           <div class="footer-body">
+               &copy;2020 Designed by jaisonjoshi. All rights reserved.
+           </div>
+
+       </div>
+   </footer>
+
+
+
+
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
