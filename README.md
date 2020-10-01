@@ -17,10 +17,10 @@
         </div>
         <div class="navbar-nav">
             <ul class="nav-item">
-                <li class="nav-link"><a href="#" onclick="navlink()">Home</a></li>
-                <li class="nav-link"><a href="#" onclick="navlink()">About Us</a></li>
-                <li class="nav-link"><a href="#" onclick="navlink()">Gallery</a></li>
-                <li class="nav-link"><a href="#footer" onclick="navlink()">Contact</a></li>
+                <li class="nav-link"><a href="#" onclick="navlink()">HOME</a></li>
+                <li class="nav-link"><a href="#" onclick="navlink()">ABOUT Us</a></li>
+                <li class="nav-link"><a href="#" onclick="navlink()">GALLERY</a></li>
+                <li class="nav-link"><a href="#footer" onclick="navlink()">CONTACT</a></li>
             </ul>
         </div>
         
@@ -39,8 +39,8 @@
            <div class="footer-head">
                <div class="footer-logo">
                    <div class="f-logo"><img src="./assets/img/footerlogo.png" alt=""></div>
-                   <h4>GEC Arts Club</h4>
-                   <h5>Govt. Engineering Collage, Palakkad</h5>
+                   <h4>GEC Artists Club</h4>
+                   <h5>Government Engineering Collage, Palakkad</h5>
               </div>
               <div class="footer-nav">
                   <h3>Site Map</h3>
